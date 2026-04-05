@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema Cliente/Servidor em Camadas
 
 ## 📌 Descrição
@@ -64,3 +65,7 @@ python client.py
 -   pasta dados/ com arquivos JSON
 
 
+=======
+# Atividade03SD
+Atividade 03 da disciplina de Sistemas Distribuidos
+>>>>>>> b43dec6bc8080a52ce374cc4c1b9e93da47c136a
