@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sistema Cliente/Servidor em Camadas
 
 ## 📌 Descrição
