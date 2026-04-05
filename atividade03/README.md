@@ -65,7 +65,8 @@ python client.py
 -   pasta dados/ com arquivos JSON
 
 
-=======
-# Atividade03SD
-Atividade 03 da disciplina de Sistemas Distribuidos
->>>>>>> b43dec6bc8080a52ce374cc4c1b9e93da47c136a
+Vídeo de teste:
+https://github.com/user-attachments/assets/98168f4c-2644-4e36-8233-2b4e08374425
+
+
+
