@@ -4,7 +4,7 @@ import uuid
 import random
 
 # TROCAR PELO IP DO SERVIDOR
-URL = "http://192.168.0.107:5000/sensor"
+URL = "http://IP:5000/sensor"
 
 historico = []
 
