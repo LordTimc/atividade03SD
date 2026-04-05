@@ -62,3 +62,5 @@ python client.py
 
 -   database.db
 -   pasta dados/ com arquivos JSON
+
+Video de teste: https://github-production-user-asset-6210df.s3.amazonaws.com/120272721/573961516-98168f4c-2644-4e36-8233-2b4e08374425.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260405%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260405T235015Z&X-Amz-Expires=300&X-Amz-Signature=074541a1e720c1aafc81c5f89c7d9f91bb7258ed3cef46c07514b77e27c536f4&X-Amz-SignedHeaders=host
